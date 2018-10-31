@@ -1,0 +1,19 @@
+{
+  "name": "voicemail",
+  "version": "0.0.1",
+  "description": "Voice is a google assistant chat boot. Voicemail will help to check your emails",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimitardanailov/voicemail.git"
+  },
+  "author": "Dimitar <dimityr.danailov@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dimitardanailov/voicemail/issues"
+  },
+  "homepage": "https://github.com/dimitardanailov/voicemail#readme"
+}
